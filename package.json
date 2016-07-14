@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/celsom3/resume/issues"
   },
-  "homepage": "https://github.com/celsom3/resume#readme"
+  "homepage": "https://github.com/celsom3/resume#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
 }
