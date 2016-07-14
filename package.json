@@ -1,0 +1,22 @@
+{
+  "name": "my-resume",
+  "version": "0.0.1",
+  "description": "My online resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celsom3/resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Celso Mireles <celso.mireles@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/celsom3/resume/issues"
+  },
+  "homepage": "https://github.com/celsom3/resume#readme"
+}
